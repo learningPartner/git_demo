@@ -3,5 +3,5 @@ function addTocart(params) {
 }
 
 function getAllCart(){
-    
+    alert("Hi From Js")
 }
