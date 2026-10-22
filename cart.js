@@ -4,4 +4,8 @@ function addTocart(params) {
 
 function getAllCart(){
     alert("Hi From Js")
+    console.log("get all carts");
+}
+function getCartById(){
+    console.log("ds")
 }
