@@ -3,5 +3,8 @@ function addTocart(params) {
 }
 
 function getAllCart(){
-    
+    console.log("get all carts");
+}
+function getCartById(){
+    console.log("ds")
 }
