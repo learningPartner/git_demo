@@ -9,3 +9,7 @@ function getAllOrder(){
 function justcommit(){
     let check;
 }
+
+function newFun() {
+    
+}
