@@ -8,4 +8,6 @@ function getAllCart(){
 }
 function getCartById(){
     console.log("ds")
+    console.log("dswqmn")
+    console.log("dsds")
 }
